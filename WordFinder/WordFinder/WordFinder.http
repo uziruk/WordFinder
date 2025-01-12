@@ -1,0 +1,6 @@
+@WordFinder_HostAddress = http://localhost:5051
+
+GET {{WordFinder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
